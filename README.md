@@ -2,7 +2,7 @@
 
 This repository contains the full source code and configuration for a 3D-printing marketplace web application. The platform connects providers (3D-printer owners) and customers (who request models to be printed).
 
-## Directory Structure
+## Directory Structure.
 
 ```
 3dprint-marketplace/
